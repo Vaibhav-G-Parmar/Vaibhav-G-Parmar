@@ -1,4 +1,4 @@
-### <b>Hello! I am Vaibhav.</b> 👋
+###  <b align = 'center'>Hello! I am Vaibhav.</b> 👋
 
 
 <!--
