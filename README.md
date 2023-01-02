@@ -1,6 +1,6 @@
 ### Hello! I am Vaibhav.</b> 👋
 
-- 🔭 I’m currently working 
+- 🔭 I’m currently working <\n>
   -as a Mainframe Developer Co-op at TD Bank, Toronto, CA. </b>
   -on various C++ Projects </b>
 
