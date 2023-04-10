@@ -1,7 +1,7 @@
 ### Hello! I am Vaibhav.</b> 👋
 
 - 🔭 I’m currently working 
-  -as a Mainframe Developer Co-op at TD Bank, Toronto, CA.
+  -as a Mainframe Developer Co-op at TD Bank, Toronto, CA. 
   -on various C++ Projects 
 
 <!--
