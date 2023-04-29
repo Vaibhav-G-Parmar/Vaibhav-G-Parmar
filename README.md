@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working 
   -as a Mainframe Developer Co-op at TD Bank, Toronto, CA. 
-  -on various C++ Projects 
+  -on various Java and C/C++ Projects 
 
 <!--
 **Vaibhav-G-Parmar/Vaib hav-G-Parmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
