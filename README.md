@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working 
   -as a Mainframe Developer Co-op at TD Bank, Toronto, CA. 
-  -on various Java and C/C++ Projects 
+  -and on various Java and C/C++ Projects 
 
 - All my coding repositories may be private, please reach out to me via LinkedIn if you would like to see my codes. 
 
