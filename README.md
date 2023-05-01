@@ -4,7 +4,7 @@
   -as a Mainframe Developer Co-op at TD Bank, Toronto, CA. 
   -on various Java and C/C++ Projects 
 
-- All my coding repositories may be private, please reach out to me if you would like to see my codes. 
+- All my coding repositories may be private, please reach out to me via LinkedIn if you would like to see my codes. 
 
 <!--
 **Vaibhav-G-Parmar/Vaib hav-G-Parmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
