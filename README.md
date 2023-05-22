@@ -1,8 +1,8 @@
 ### Hello! I am Vaibhav.</b> 👋
 
 - 🔭 I’m currently working 
-  -as a Mainframe Developer Co-op at TD Bank, Toronto, CA. 
-  -and on various Java and C/C++ Projects 
+  -as a Mainframe Developer at TD Bank, Toronto, CA. 
+  -and on various Java, React and C/C++ Projects 
 
 - All my coding repositories may be private, please reach out to me via LinkedIn if you would like to see my codes. 
 
