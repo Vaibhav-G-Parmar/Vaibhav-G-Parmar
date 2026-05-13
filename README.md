@@ -137,8 +137,6 @@ Community and event management app (**live on Play Store / App Store**) with sca
 
 <br/>
 
-<br>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
