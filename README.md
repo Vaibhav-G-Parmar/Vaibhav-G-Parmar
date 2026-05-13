@@ -10,11 +10,11 @@
 
 Hi, I'm **Vaibhav Parmar**, a **Software Engineer** at **TD Bank** in **Toronto, Canada**, with a **Computer Programming and Analysis** background from **Seneca Polytechnic** (High Honors, 4.0 CGPA).
 
-I design and ship **full-stack software**—**React** and **TypeScript** on the client, **Node.js** and **Spring** on the server, well-defined **REST** contracts, and **cloud-native** delivery on **AWS** and **Azure**—with a bias toward **clarity**, **reliability**, and ways of working teams can sustain. 
+I design and ship **full-stack software**-**React** and **TypeScript** on the client, **Node.js** and **Spring** on the server, well-defined **REST** contracts, and **cloud-native** delivery on **AWS** and **Azure**-with a bias toward **clarity**, **reliability**, and ways of working teams can sustain. 
 
 In parallel, I build **transformational APIs** that safely connect **mainframe IMS** systems to modern consumers through **IBM z/OS Connect**, so mission-critical workloads and enterprise systems can keep pace with distributed channels.
 
-- 💼 **Software Engineer - Distributed Software Engineering (API Development)** at **TD Bank**
+- 💼 **Software Engineer - Distributed Software Engineering** at **TD Bank**
 - 🏦 Strong in **distributed systems**, **mainframe modernization**, **REST APIs**, **Spring Boot**, **Kafka**, and **cloud delivery** (AWS / Azure)
 - 🤖 Fast adopter of **GitHub Copilot**, **agentic workflows** (Chat, Agents, Skills, Instructions), and **Cursor** for disciplined, cost-aware delivery
 - 📊 Comfortable with **Splunk**, **Dynatrace**, and **Datadog** for observability and production troubleshooting
@@ -64,25 +64,25 @@ In parallel, I build **transformational APIs** that safely connect **mainframe I
 
 ## 🚀 Featured Projects
 
-### ⏱️ HPBU2028 — The Countdown
+### ⏱️ HPBU2028 - The Countdown
 
 **Tech:** **React 18**, **Vite**, **CSS Modules**, **Netlify**, **GitHub Actions**
 
 Single-page event countdown with a fullscreen crossfade slideshow, privacy mode, slide lock durations, and a **config-driven** setup for copy, dates, and assets.
 
-### ✈️ Chronicle — Travel Journal App
+### ✈️ Chronicle - Travel Journal App
 
 **Tech:** **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, **Node.js**, **Express**, **MongoDB**, **Mongoose**, **Cyclic.sh**
 
-Full-stack travel journal with **CRUD APIs**, forums, authentication, **Leaflet** maps, social sharing, and Dropbox-backed media — optimized indexing cut query time **~40%**.
+Full-stack travel journal with **CRUD APIs**, forums, authentication, **Leaflet** maps, social sharing, and Dropbox-backed media - optimized indexing cut query time **~40%**.
 
-### 🧩 Fragments — Data Management Microservice
+### 🧩 Fragments - Data Management Microservice
 
 **Tech:** **Node.js**, **Express**, **AWS** (S3, DynamoDB, ECS, Cognito), **Docker**, **GitHub Actions**, **CloudFormation**, **CloudWatch**
 
-Production-style microservice for text and image fragments with **auth**, **RBAC**, **IaC**, **CI/CD**, and monitoring — strong uptime and faster incident resolution in testing.
+Production-style microservice for text and image fragments with **auth**, **RBAC**, **IaC**, **CI/CD**, and monitoring - strong uptime and faster incident resolution in testing.
 
-### ❤️ Harmony With Heart — Community & Events
+### ❤️ Harmony With Heart - Community & Events
 
 **Tech:** **Node.js**, **TypeScript**, **Express**, **AWS**, **JWT**, **OAuth**, **Jest**, **Mocha**, **Supertest**, **AWS CodePipeline**
 
@@ -94,9 +94,9 @@ Community and event management app (**live on Play Store / App Store**) with sca
 
 - Building **reliable full-stack features**: solid **APIs**, thoughtful **UI/UX**, and **CI/CD** that teams can own
 - Shipping **API-first** integrations between **mainframe** and **distributed** systems
-- **Agentic development** with Copilot and clear **instructions** — fast feedback without burning token budget
+- **Agentic development** with Copilot and clear **instructions** - fast feedback without burning token budget
 - **Observability-led** troubleshooting (Splunk, Dynatrace, Datadog) and production discipline
-- **Mentorship**, **PI planning**, and **documentation** that helps the whole team move faster
+- **Mentorship** and **documentation** that helps the whole team move faster
 
 <br>
 
