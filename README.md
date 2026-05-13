@@ -150,7 +150,7 @@ Community and event management app (**live on Play Store / App Store**) with sca
 <br>
 <br>
 
-**Thanks for stopping by.**
+**Scroll to see my repositories... Thank you for stopping by!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=96&amp;color=0:065f46,100:047857&amp;section=footer" width="100%" alt="" />
 
